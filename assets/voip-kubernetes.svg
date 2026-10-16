@@ -1,0 +1,42 @@
+<svg width="900" height="240" viewBox="0 0 900 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">VoIP to Kubernetes</title>
+  <desc id="desc">A professional architecture banner showing SIP, Asterisk and Kamailio connected to Kubernetes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071A2B"/>
+      <stop offset="1" stop-color="#102A43"/>
+    </linearGradient>
+    <linearGradient id="line" x1="100" y1="0" x2="800" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#35D0BA"/>
+      <stop offset="1" stop-color="#62A0EA"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .pulse { animation: pulse 2.4s ease-in-out infinite; transform-origin: center; }
+      .pulse2 { animation: pulse 2.4s ease-in-out 1.2s infinite; transform-origin: center; }
+      @keyframes pulse { 0%,100% { opacity:.35; transform:scale(.8); } 50% { opacity:1; transform:scale(1.25); } }
+    </style>
+  </defs>
+  <rect width="900" height="240" rx="18" fill="url(#bg)"/>
+  <path d="M0 190C180 145 260 215 430 170C590 128 690 175 900 125" stroke="#1E4968" stroke-width="1" opacity=".6"/>
+  <path d="M0 205C180 160 260 230 430 185C590 143 690 190 900 140" stroke="#1E4968" stroke-width="1" opacity=".35"/>
+  <text x="42" y="52" fill="#E6F1FF" font-family="Arial, sans-serif" font-size="24" font-weight="700">VoIP → Kubernetes</text>
+  <text x="42" y="78" fill="#9FB3C8" font-family="Arial, sans-serif" font-size="14">Communication platforms moving toward cloud-native infrastructure</text>
+  <g stroke="url(#line)" stroke-width="3" filter="url(#glow)">
+    <path d="M174 141H300"/>
+    <path d="M398 141H524"/>
+    <path d="M622 141H748"/>
+  </g>
+  <g fill="#35D0BA" class="pulse"><circle cx="238" cy="141" r="5"/></g>
+  <g fill="#62A0EA" class="pulse2"><circle cx="462" cy="141" r="5"/></g>
+  <g fill="#35D0BA" class="pulse"><circle cx="686" cy="141" r="5"/></g>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <g><rect x="62" y="108" width="112" height="66" rx="12" fill="#123B51" stroke="#35D0BA"/><text x="118" y="136" fill="#E6F1FF" font-size="15" font-weight="700">SIP / VoIP</text><text x="118" y="157" fill="#9FB3C8" font-size="12">Endpoints</text></g>
+    <g><rect x="286" y="108" width="112" height="66" rx="12" fill="#123B51" stroke="#35D0BA"/><text x="342" y="136" fill="#E6F1FF" font-size="15" font-weight="700">Asterisk</text><text x="342" y="157" fill="#9FB3C8" font-size="12">PBX / Media</text></g>
+    <g><rect x="510" y="108" width="112" height="66" rx="12" fill="#123B51" stroke="#62A0EA"/><text x="566" y="136" fill="#E6F1FF" font-size="15" font-weight="700">Kamailio</text><text x="566" y="157" fill="#9FB3C8" font-size="12">SIP Routing</text></g>
+    <g><rect x="734" y="108" width="112" height="66" rx="12" fill="#173C6B" stroke="#62A0EA"/><text x="790" y="136" fill="#E6F1FF" font-size="15" font-weight="700">Kubernetes</text><text x="790" y="157" fill="#9FB3C8" font-size="12">Cloud Native</text></g>
+  </g>
+</svg>

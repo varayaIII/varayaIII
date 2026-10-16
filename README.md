@@ -1,5 +1,9 @@
 # Hi, I'm Víctor Araya 👋
 
+<p align="center">
+  <img src="./assets/voip-kubernetes.svg" alt="VoIP to Kubernetes architecture banner" width="900" />
+</p>
+
 ## VoIP & Telecom Engineer | Kubernetes Direction
 
 I build and operate communication platforms based on **VoIP, SIP, Asterisk, Kamailio, and messaging technologies**.
