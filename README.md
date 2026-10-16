@@ -1,4 +1,4 @@
-# Hi, I'm Víctor Araya 👋
+# Hi, I'm Víctor
 
 <p align="center">
   <img src="./assets/voip-kubernetes.svg" alt="VoIP to Kubernetes architecture banner" width="900" />
