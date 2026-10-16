@@ -58,7 +58,6 @@ I am focused on evolving communication platforms toward Kubernetes and cloud-nat
 ## Connect with me
 
 - 🌐 [Personal portfolio](https://varayaiii.github.io)
-- 💻 [GitHub](https://github.com/varayaIII)
 
 ---
 
