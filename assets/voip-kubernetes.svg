@@ -1,6 +1,6 @@
 <svg width="900" height="240" viewBox="0 0 900 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">VoIP to Kubernetes</title>
-  <desc id="desc">A professional architecture banner showing SIP, Asterisk and Kamailio connected to Kubernetes.</desc>
+  <desc id="desc">A communication architecture banner showing SIP and VoIP connected through a voice platform and SIP routing to Kubernetes.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="900" y2="240" gradientUnits="userSpaceOnUse">
       <stop stop-color="#071A2B"/>
@@ -34,9 +34,25 @@
   <g fill="#62A0EA" class="pulse2"><circle cx="462" cy="141" r="5"/></g>
   <g fill="#35D0BA" class="pulse"><circle cx="686" cy="141" r="5"/></g>
   <g font-family="Arial, sans-serif" text-anchor="middle">
-    <g><rect x="62" y="108" width="112" height="66" rx="12" fill="#123B51" stroke="#35D0BA"/><text x="118" y="136" fill="#E6F1FF" font-size="15" font-weight="700">SIP / VoIP</text><text x="118" y="157" fill="#9FB3C8" font-size="12">Endpoints</text></g>
-    <g><rect x="286" y="108" width="112" height="66" rx="12" fill="#123B51" stroke="#35D0BA"/><text x="342" y="136" fill="#E6F1FF" font-size="15" font-weight="700">Asterisk</text><text x="342" y="157" fill="#9FB3C8" font-size="12">PBX / Media</text></g>
-    <g><rect x="510" y="108" width="112" height="66" rx="12" fill="#123B51" stroke="#62A0EA"/><text x="566" y="136" fill="#E6F1FF" font-size="15" font-weight="700">Kamailio</text><text x="566" y="157" fill="#9FB3C8" font-size="12">SIP Routing</text></g>
-    <g><rect x="734" y="108" width="112" height="66" rx="12" fill="#173C6B" stroke="#62A0EA"/><text x="790" y="136" fill="#E6F1FF" font-size="15" font-weight="700">Kubernetes</text><text x="790" y="157" fill="#9FB3C8" font-size="12">Cloud Native</text></g>
+    <g>
+      <rect x="62" y="108" width="112" height="66" rx="12" fill="#123B51" stroke="#35D0BA"/>
+      <text x="118" y="136" fill="#E6F1FF" font-size="15" font-weight="700">SIP / VoIP</text>
+      <text x="118" y="157" fill="#9FB3C8" font-size="12">Endpoints</text>
+    </g>
+    <g>
+      <rect x="286" y="108" width="112" height="66" rx="12" fill="#123B51" stroke="#35D0BA"/>
+      <text x="342" y="136" fill="#E6F1FF" font-size="15" font-weight="700">Voice Platform</text>
+      <text x="342" y="157" fill="#9FB3C8" font-size="12">PBX / Media</text>
+    </g>
+    <g>
+      <rect x="510" y="108" width="112" height="66" rx="12" fill="#123B51" stroke="#62A0EA"/>
+      <text x="566" y="136" fill="#E6F1FF" font-size="15" font-weight="700">SIP Routing</text>
+      <text x="566" y="157" fill="#9FB3C8" font-size="12">Signaling</text>
+    </g>
+    <g>
+      <rect x="734" y="108" width="112" height="66" rx="12" fill="#173C6B" stroke="#62A0EA"/>
+      <text x="790" y="136" fill="#E6F1FF" font-size="15" font-weight="700">Kubernetes</text>
+      <text x="790" y="157" fill="#9FB3C8" font-size="12">Cloud Native</text>
+    </g>
   </g>
 </svg>

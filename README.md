@@ -6,14 +6,15 @@
 
 ## VoIP & Telecom Engineer | Moving VoIP toward Kubernetes
 
-I build and operate communication platforms based on **VoIP, SIP, Asterisk, Kamailio, and messaging technologies**.
+I design and operate communication platforms based on **VoIP, SIP signaling, voice services, media platforms, and telecom integrations**.
 
 My current direction is bringing reliable telecom workloads to **Kubernetes and cloud-native environments**, with a focus on reliability, scalability, observability, and predictable operations.
 
 ## About me
 
 - 📞 VoIP and telecommunications are my main area of expertise
-- 📡 Experienced with SIP, Asterisk, Kamailio, and real-time communication platforms
+- 📡 Experienced with SIP signaling, voice platforms, media services, and real-time communications
+- 🔀 Focused on call routing, interoperability, and telecom integrations
 - 📨 Building and integrating solutions around Jasmin SMS Gateway
 - ☸️ Exploring Kubernetes for telecom and communication workloads
 - ☁️ Working with AWS and cloud infrastructure
@@ -23,9 +24,9 @@ My current direction is bringing reliable telecom workloads to **Kubernetes and 
 ## Technical focus
 
 <p>
-  <img src="https://img.shields.io/badge/Asterisk-1E1E1E?style=flat-square&logo=asterisk&logoColor=white" alt="Asterisk" />
-  <img src="https://img.shields.io/badge/Kamailio-333333?style=flat-square&logoColor=white" alt="Kamailio" />
+  <img src="https://img.shields.io/badge/VoIP-2E8B57?style=flat-square&logoColor=white" alt="VoIP" />
   <img src="https://img.shields.io/badge/SIP-0A66C2?style=flat-square&logoColor=white" alt="SIP" />
+  <img src="https://img.shields.io/badge/Telecom-334155?style=flat-square&logoColor=white" alt="Telecom" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
@@ -39,7 +40,7 @@ My current direction is bringing reliable telecom workloads to **Kubernetes and 
 
 ### VoIP, Telecom & Messaging
 
-- 📞 [Ansible Homelab](https://github.com/varayaIII/ansible-homelab) — **Personal lab project** for automating Asterisk and Kamailio infrastructure on AWS with Ansible.
+- 📞 [Ansible Homelab](https://github.com/varayaIII/ansible-homelab) — **Personal lab project** for automating voice infrastructure and SIP services on AWS with Ansible.
 - 📨 [Jasmin Web Panel](https://github.com/varayaIII/jasmin-web-panel) — **Fork and adaptation** of a web management platform for Jasmin SMS Gateway, including monitoring, connectors, routing, and message tracking.
 - 💬 [Hub4Talk](https://github.com/varayaIII/hub4talk) — **Personal experimental project** focused on communication and messaging.
 - 📡 [Jasmin POC](https://github.com/varayaIII/jasmin_poc) — **Proof of concept** for experimenting with Jasmin SMS Gateway.
