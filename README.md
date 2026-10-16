@@ -43,16 +43,16 @@ My professional direction is to bring reliable telecom workloads to **Kubernetes
 
 ### VoIP, Telecom & Messaging
 
-- 📞 [Ansible Homelab](https://github.com/varayaIII/ansible-homelab) — AWS-based lab for automating Asterisk and Kamailio infrastructure.
-- 📨 [Jasmin Web Panel](https://github.com/varayaIII/jasmin-web-panel) — Web management platform for Jasmin SMS Gateway, including monitoring, connectors, routing, and message tracking.
-- 💬 [Hub4Talk](https://github.com/varayaIII/hub4talk) — Personal communication and messaging project.
-- 📡 [Jasmin POC](https://github.com/varayaIII/jasmin_poc) — Proof of concept and experimentation with Jasmin SMS Gateway.
+- 📞 [Ansible Homelab](https://github.com/varayaIII/ansible-homelab) — **Personal lab project** for automating Asterisk and Kamailio infrastructure on AWS with Ansible.
+- 📨 [Jasmin Web Panel](https://github.com/varayaIII/jasmin-web-panel) — **Fork and adaptation** of a web management platform for Jasmin SMS Gateway, including monitoring, connectors, routing, and message tracking.
+- 💬 [Hub4Talk](https://github.com/varayaIII/hub4talk) — **Personal experimental project** focused on communication and messaging.
+- 📡 [Jasmin POC](https://github.com/varayaIII/jasmin_poc) — **Proof of concept and experiment** for working with Jasmin SMS Gateway.
 
 ### Kubernetes & Cloud-Native Infrastructure
 
-- ☸️ [Terraform NGINX Module](https://github.com/varayaIII/terraform-nginx-module) — Reusable Kubernetes infrastructure with Terratest validation and CI/CD.
-- 🚀 [Pipeline CI/CD + GitOps](https://github.com/varayaIII/pipeline-cicd-gitops) — Container delivery workflow using GitHub Actions, GHCR, Kubernetes, Kustomize, and Argo CD.
-- 🔄 [Argo CD Example Apps](https://github.com/varayaIII/argocd-example-apps) — Declarative Kubernetes deployment examples.
+- ☸️ [Terraform NGINX Module](https://github.com/varayaIII/terraform-nginx-module) — **Original reusable module project** for deploying NGINX to Kubernetes, with Terratest validation and CI/CD.
+- 🚀 [Pipeline CI/CD + GitOps](https://github.com/varayaIII/pipeline-cicd-gitops) — **Original demonstration project** showing container delivery with GitHub Actions, GHCR, Kubernetes, Kustomize, and Argo CD.
+- 🔄 [Argo CD Example Apps](https://github.com/varayaIII/argocd-example-apps) — **Fork of the Argo CD example applications** used for GitOps experimentation and learning.
 
 ## My direction
 
