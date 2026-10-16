@@ -22,36 +22,22 @@ My professional direction is to bring reliable telecom workloads to **Kubernetes
 
 ## Technical focus
 
-### VoIP & Telecommunications
+<p>
+  <img src="https://img.shields.io/badge/Asterisk-1E1E1E?style=flat-square&logo=asterisk&logoColor=white" alt="Asterisk" />
+  <img src="https://img.shields.io/badge/Kamailio-333333?style=flat-square&logoColor=white" alt="Kamailio" />
+  <img src="https://img.shields.io/badge/SIP-0A66C2?style=flat-square&logoColor=white" alt="SIP" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+</p>
 
-![Asterisk](https://img.shields.io/badge/Asterisk-1E1E1E?style=for-the-badge&logo=asterisk&logoColor=white)
-![Kamailio](https://img.shields.io/badge/Kamailio-333333?style=for-the-badge&logoColor=white)
-![SIP](https://img.shields.io/badge/SIP-0A66C2?style=for-the-badge&logoColor=white)
-![VoIP](https://img.shields.io/badge/VoIP-2E8B57?style=for-the-badge&logoColor=white)
-![SMS Gateway](https://img.shields.io/badge/SMS_Gateway-4CAF50?style=for-the-badge&logoColor=white)
+**Main expertise:** VoIP, SIP infrastructure, Asterisk, Kamailio, and communication platforms.
 
-### Kubernetes & Cloud-Native Direction
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![Argo CD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![Kustomize](https://img.shields.io/badge/Kustomize-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### Infrastructure & Automation
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Development
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+**Current direction:** deploying telecom workloads with Kubernetes and cloud-native infrastructure.
 
 ## Featured projects
 
