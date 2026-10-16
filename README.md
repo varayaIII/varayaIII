@@ -4,20 +4,20 @@
   <img src="./assets/voip-kubernetes.svg" alt="VoIP to Kubernetes architecture banner" width="900" />
 </p>
 
-## VoIP & Telecom Engineer | Kubernetes Direction
+## VoIP & Telecom Engineer | Moving VoIP toward Kubernetes
 
 I build and operate communication platforms based on **VoIP, SIP, Asterisk, Kamailio, and messaging technologies**.
 
-My professional direction is to bring reliable telecom workloads to **Kubernetes and cloud-native environments**, with a focus on reproducible deployments, scalability, and operational simplicity.
+My current direction is bringing reliable telecom workloads to **Kubernetes and cloud-native environments**, with a focus on reliability, scalability, observability, and predictable operations.
 
 ## About me
 
 - 📞 VoIP and telecommunications are my main area of expertise
-- 📡 Working with SIP, Asterisk, Kamailio, and real-time communication platforms
-- 📨 Building and integrating SMS solutions with Jasmin SMS Gateway
-- ☸️ Moving communication workloads toward Kubernetes-based deployments
-- ☁️ Exploring AWS and cloud infrastructure for telecom platforms
-- 🔧 Automating infrastructure with Terraform, Ansible, Docker, and GitHub Actions
+- 📡 Experienced with SIP, Asterisk, Kamailio, and real-time communication platforms
+- 📨 Building and integrating solutions around Jasmin SMS Gateway
+- ☸️ Exploring Kubernetes for telecom and communication workloads
+- ☁️ Working with AWS and cloud infrastructure
+- 🔧 Automating infrastructure with Terraform, Ansible, and Docker
 - 🐍 Building supporting tools and web platforms with Python and Django
 
 ## Technical focus
@@ -35,10 +35,6 @@ My professional direction is to bring reliable telecom workloads to **Kubernetes
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
 </p>
 
-**Main expertise:** VoIP, SIP infrastructure, Asterisk, Kamailio, and communication platforms.
-
-**Current direction:** deploying telecom workloads with Kubernetes and cloud-native infrastructure.
-
 ## Featured projects
 
 ### VoIP, Telecom & Messaging
@@ -46,30 +42,21 @@ My professional direction is to bring reliable telecom workloads to **Kubernetes
 - 📞 [Ansible Homelab](https://github.com/varayaIII/ansible-homelab) — **Personal lab project** for automating Asterisk and Kamailio infrastructure on AWS with Ansible.
 - 📨 [Jasmin Web Panel](https://github.com/varayaIII/jasmin-web-panel) — **Fork and adaptation** of a web management platform for Jasmin SMS Gateway, including monitoring, connectors, routing, and message tracking.
 - 💬 [Hub4Talk](https://github.com/varayaIII/hub4talk) — **Personal experimental project** focused on communication and messaging.
-- 📡 [Jasmin POC](https://github.com/varayaIII/jasmin_poc) — **Proof of concept and experiment** for working with Jasmin SMS Gateway.
+- 📡 [Jasmin POC](https://github.com/varayaIII/jasmin_poc) — **Proof of concept** for experimenting with Jasmin SMS Gateway.
 
 ### Kubernetes & Cloud-Native Infrastructure
 
-- ☸️ [Terraform NGINX Module](https://github.com/varayaIII/terraform-nginx-module) — **Original reusable module project** for deploying NGINX to Kubernetes, with Terratest validation and CI/CD.
+- ☸️ [Terraform NGINX Module](https://github.com/varayaIII/terraform-nginx-module) — **Original reusable module** for deploying NGINX to Kubernetes, with Terratest validation and CI/CD.
 - 🚀 [Pipeline CI/CD + GitOps](https://github.com/varayaIII/pipeline-cicd-gitops) — **Original demonstration project** showing container delivery with GitHub Actions, GHCR, Kubernetes, Kustomize, and Argo CD.
 - 🔄 [Argo CD Example Apps](https://github.com/varayaIII/argocd-example-apps) — **Fork of the Argo CD example applications** used for GitOps experimentation and learning.
 
-## My direction
+## Professional direction
 
-I am focused on evolving communication platforms toward Kubernetes and cloud-native architectures, while keeping the operational requirements of VoIP in mind: reliability, observability, scalability, networking, and predictable deployments.
-
-## What I enjoy building
-
-- Reliable VoIP and SIP platforms
-- Asterisk and Kamailio integrations
-- SMS and messaging infrastructure
-- Kubernetes deployments for communication workloads
-- Reproducible infrastructure and automation
-- Open-source tools for real-world telecom challenges
+I am focused on evolving communication platforms toward Kubernetes and cloud-native architectures while preserving the operational requirements of VoIP: reliability, observability, scalability, networking, and predictable deployments.
 
 ## Connect with me
 
-- 🌐 [Personal portfolio](https://varayaIII.github.io)
+- 🌐 [Personal portfolio](https://varayaiii.github.io)
 - 💻 [GitHub](https://github.com/varayaIII)
 
 ---
